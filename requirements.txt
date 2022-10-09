@@ -1,0 +1,12 @@
+asgiref==3.4.1
+backports.entry-points-selectable @ file:///build/backports.entry_points_selectable-1.1.0/dist/backports.entry_points_selectable-1.1.0-py2.py3-none-any.whl
+backports.zoneinfo==0.2.1
+distlib @ file:///build/distlib-0.3.3/dist/distlib-0.3.3-py3-none-any.whl
+Django==3.2.5
+filelock @ file:///build/filelock-3.3.0/dist/filelock-3.3.0-py3-none-any.whl
+platformdirs @ file:///build/source/dist/platformdirs-2.4.0-py3-none-any.whl
+python-dotenv==0.21.0
+pytz==2021.1
+six @ file:///build/six-1.16.0/dist/six-1.16.0-py2.py3-none-any.whl
+sqlparse==0.4.1
+virtualenv @ file:///build/virtualenv-20.8.1/dist/virtualenv-20.8.1-py2.py3-none-any.whl
